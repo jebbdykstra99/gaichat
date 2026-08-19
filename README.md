@@ -4,7 +4,7 @@ Generative AI room. Best uses, policies, laws around the world, how to actually 
 
 This is a **static** dress rehearsal of the bakasan.art SubX chrome (three-column X-like shell: left nav, center feed, right rail, hash routes, sign-in modal, mobile hamburger). It is **not** the FastAPI / Next `subx` stack. No React, no Next, no FastAPI, no Firebase, no model calls, no `fetch`.
 
-Wordmark: **gaichat**. Tagline (locked): *Tools, not oracles.*
+Wordmark: **Generative AI**. Domain: gaichat.com. Tagline (locked): *Tools, not oracles.*
 
 Dummy posts teach Grok, Cursor, Claude, Gemini, and ChatGPT as **tools with receipts** — verify, don't worship. Honest about drafts, code, search, and rubber-ducking. Honest about legal advice, live facts without checking, and secrets. EU AI Act / policy chatter appears as dummy cards, **not legal advice**.
 
