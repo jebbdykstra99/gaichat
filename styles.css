@@ -74,11 +74,12 @@ body {
 }
 .brand-title {
   font-family: var(--display);
-  font-size: 1.85rem; font-weight: 700;
-  letter-spacing: 0.04em;
+  font-size: 1.15rem; font-weight: 700;
+  letter-spacing: 0.08em;
   color: var(--nav-active);
-  line-height: 1; margin-bottom: 0.28rem;
+  line-height: 1.15; margin: 0 auto 0.28rem;
   text-transform: uppercase;
+  max-width: 9.5rem;
 }
 .brand-sub {
   font-size: 0.78rem; font-weight: 400;
