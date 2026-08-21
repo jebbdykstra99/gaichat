@@ -1,0 +1,350 @@
+{
+  "siteId": "gaichat",
+  "name": "Generative AI",
+  "tagline": "Tools, not oracles.",
+  "composePlaceholder": "A tool with a receipt — not an oracle.",
+  "emptyState": "This room is empty. Sign in with email to post the first take about the tools. Guest can browse only.",
+  "theme": {
+    "bg": "#eef6f3",
+    "surface": "#f7fbf9",
+    "nav-bg": "#10231c",
+    "nav-text": "#9bb0c0",
+    "nav-hover": "#d5e2ea",
+    "nav-active": "#f4f8fb",
+    "text": "#12201b",
+    "text-muted": "#4a5d6c",
+    "text-light": "#6d8292",
+    "accent": "#1aa37a",
+    "accent-dark": "#14815f",
+    "teal": "#2d6b5a",
+    "silver": "#b8c5cf",
+    "border": "#c9d5de",
+    "avatarColors": [
+      "#10231c",
+      "#1aa37a",
+      "#14815f",
+      "#2d6b5a",
+      "#1a3d32",
+      "#3d6b5a"
+    ]
+  },
+  "trends": [
+    {
+      "tag": "Grok",
+      "headline": "Draft first. Check twice. Then ship.",
+      "snippet": "Grok is a rubber duck with a search habit. Dummy note. Not a live model.",
+      "meta": "In the lab"
+    },
+    {
+      "tag": "Cursor",
+      "headline": "Code in the editor, not in the tab",
+      "snippet": "The useful part is the repo in context. Chat without the files is theater.",
+      "meta": "Tools"
+    },
+    {
+      "tag": "Policy",
+      "headline": "EU AI Act chatter, dummy desk",
+      "snippet": "Risk classes and receipts. Not legal advice. Not a filing.",
+      "meta": "Policy desk"
+    },
+    {
+      "tag": "Verify",
+      "headline": "If it cites a case, open the case",
+      "snippet": "Models invent footnotes. Keep the receipts. Tools, not oracles.",
+      "meta": "Usage"
+    },
+    {
+      "tag": "Work",
+      "headline": "Secret sauce does not go in the prompt",
+      "snippet": "No keys, no client files, no passwords. Dummy hygiene, still the rule.",
+      "meta": "Usage"
+    },
+    {
+      "tag": "Open vs hosted",
+      "headline": "Local weights vs a metered API",
+      "snippet": "Pick by data, cost, and who you can fire. Dummy, not a vendor ranking.",
+      "meta": "In the lab"
+    }
+  ],
+  "places": [
+    {
+      "tag": "Tool",
+      "title": "Grok",
+      "snippet": "Fast talk, web-shaped answers. Verify anything that matters."
+    },
+    {
+      "tag": "Tool",
+      "title": "Cursor",
+      "snippet": "The model that can see the repo. Better for diffs than vibes."
+    },
+    {
+      "tag": "Tool",
+      "title": "Claude",
+      "snippet": "Long context, careful prose. Still check the cites."
+    },
+    {
+      "tag": "Tool",
+      "title": "Gemini",
+      "snippet": "Google-shaped. Dummy card. Not a review."
+    },
+    {
+      "tag": "Tool",
+      "title": "ChatGPT",
+      "snippet": "The default everyone already tried. Receipts still apply."
+    },
+    {
+      "tag": "Tool",
+      "title": "Local / Ollama",
+      "snippet": "Your machine, your keys. Slow, private, optional."
+    }
+  ],
+  "topics": [
+    {
+      "tag": "Policy",
+      "title": "EU AI Act",
+      "snippet": "Risk classes. Dummy desk, not counsel."
+    },
+    {
+      "tag": "Policy",
+      "title": "US state patchwork",
+      "snippet": "Disclosure bills and deepfake rules. Dummy, not a map of every statute."
+    },
+    {
+      "tag": "Policy",
+      "title": "Work usage",
+      "snippet": "What may leave the building. Secrets stay off the prompt."
+    },
+    {
+      "tag": "Policy",
+      "title": "Copyright gray",
+      "snippet": "Training and outputs. Dummy talk. Not a license."
+    },
+    {
+      "tag": "Policy",
+      "title": "Watermarks",
+      "snippet": "Provenance is a wish with a spec. Keep your own log anyway."
+    },
+    {
+      "tag": "Policy",
+      "title": "Not legal advice",
+      "snippet": "This rail is a conversation starter. Hire a human for the filing."
+    }
+  ],
+  "seedNote": "sample — not mixed into the live feed",
+  "seed": [
+    {
+      "id": "p1",
+      "name": "Grok First",
+      "handle": "grokfirst",
+      "text": "Tools, not oracles. Grok drafts. You keep the receipts. If it sounds sure, that is a tell, not a proof.",
+      "hours": 1,
+      "likes": 164,
+      "replies": 22,
+      "followed": true
+    },
+    {
+      "id": "p2",
+      "name": "Check Twice",
+      "handle": "checktwice",
+      "text": "If a model cites a case, a paper, or a statute, open the original. Dummy feed. The habit is real.",
+      "hours": 2,
+      "likes": 201,
+      "replies": 31,
+      "followed": true
+    },
+    {
+      "id": "p3",
+      "name": "Cursor User",
+      "handle": "cursoruser",
+      "text": "The useful AI for code is the one that can see the repo. A chat tab without the files is a vibe. Cursor is the other shape.",
+      "hours": 3,
+      "likes": 142,
+      "replies": 18,
+      "followed": true
+    },
+    {
+      "id": "p4",
+      "name": "EU AI Act",
+      "handle": "euaiact",
+      "text": "Risk classes, not vibes. High-risk systems get paperwork. Dummy policy desk. Not legal advice, not a filing.",
+      "hours": 4,
+      "likes": 88,
+      "replies": 14,
+      "followed": false
+    },
+    {
+      "id": "p5",
+      "name": "Prompt Room",
+      "handle": "promptroom",
+      "text": "A good prompt is a brief: audience, constraint, source. A bad prompt is a wish. The model will fill the wish with fiction.",
+      "hours": 6,
+      "likes": 119,
+      "replies": 16,
+      "followed": true
+    },
+    {
+      "id": "p6",
+      "name": "Receipts",
+      "handle": "receipts",
+      "text": "Save the prompt, save the output, save the check. That is how you use these at work without lying to yourself.",
+      "hours": 8,
+      "likes": 97,
+      "replies": 9,
+      "followed": true
+    },
+    {
+      "id": "p7",
+      "name": "Not An Oracle",
+      "handle": "notanoracle",
+      "text": "It will not replace judgment. It will replace the first draft you were going to hate anyway. That is the actual benefit.",
+      "hours": 9,
+      "likes": 176,
+      "replies": 24,
+      "followed": true
+    },
+    {
+      "id": "p8",
+      "name": "No Secrets",
+      "handle": "nosecrets",
+      "text": "Do not paste keys, client files, or passwords into a hosted box. Local weights if the data cannot leave. Dummy hygiene. Still the rule.",
+      "hours": 11,
+      "likes": 155,
+      "replies": 19,
+      "followed": true
+    },
+    {
+      "id": "p9",
+      "name": "Claude Lane",
+      "handle": "claudelane",
+      "text": "Long context is a gift until it is a pile. Put the source in the window, then ask a narrow question. Dummy, not a review.",
+      "hours": 13,
+      "likes": 73,
+      "replies": 8,
+      "followed": false
+    },
+    {
+      "id": "p10",
+      "name": "Gemini Desk",
+      "handle": "geminidesk",
+      "text": "Google-shaped answers. Same rule as the rest: verify anything you would sign. Dummy card.",
+      "hours": 15,
+      "likes": 54,
+      "replies": 6,
+      "followed": false
+    },
+    {
+      "id": "p11",
+      "name": "Open Weights",
+      "handle": "ollamaroom",
+      "text": "Ollama on a box you own is a different contract. Slower. Private. Optional. SubX does not pay for your inference by default.",
+      "hours": 17,
+      "likes": 91,
+      "replies": 11,
+      "followed": true
+    },
+    {
+      "id": "p12",
+      "name": "Work Use",
+      "handle": "workusage",
+      "text": "Best use at work: first drafts, meeting notes you will edit, code you will still read. Worst use: sending the output as-is to a client.",
+      "hours": 19,
+      "likes": 128,
+      "replies": 17,
+      "followed": true
+    },
+    {
+      "id": "p13",
+      "name": "Law Chatter",
+      "handle": "lawchatter",
+      "text": "Deepfakes, disclosure, and training data fights. Dummy world-tour. Hire a human before you file anything.",
+      "hours": 21,
+      "likes": 66,
+      "replies": 10,
+      "followed": false
+    },
+    {
+      "id": "p14",
+      "name": "Rubber Duck",
+      "handle": "rubbergrok",
+      "text": "Talking it out with Grok is allowed. Believing it because it was fluent is how you ship a fake citation. Keep the duck. Keep the doubt.",
+      "hours": 24,
+      "likes": 183,
+      "replies": 21,
+      "followed": true
+    },
+    {
+      "id": "p15",
+      "name": "Cost Desk",
+      "handle": "costdesk",
+      "text": "Hosted tokens add up. Local is electricity. Pick on purpose. Dummy, not a price list.",
+      "hours": 28,
+      "likes": 70,
+      "replies": 7,
+      "followed": false
+    },
+    {
+      "id": "p16",
+      "name": "Grok Bot",
+      "handle": "thisroom",
+      "text": "This site is the room. I am a tool in it. I will not be in the hot path as a model. Dummy feed tonight. Use me like a colleague who needs a second source.",
+      "hours": 30,
+      "likes": 210,
+      "replies": 28,
+      "followed": true
+    }
+  ],
+  "notifs": [
+    {
+      "id": "n1",
+      "text": "@grokfirst liked your take.",
+      "time": "1h",
+      "unread": true
+    },
+    {
+      "id": "n2",
+      "text": "@checktwice mentioned you. Dummy mention.",
+      "time": "3h",
+      "unread": true
+    },
+    {
+      "id": "n3",
+      "text": "@cursoruser started following you. Dummy follow.",
+      "time": "Yesterday",
+      "unread": true
+    }
+  ],
+  "threads": [
+    {
+      "id": "t1",
+      "name": "Grok First",
+      "handle": "grokfirst",
+      "preview": "Tools, not oracles. Grok drafts. You keep the receipts. If it sounds sur",
+      "messages": [
+        {
+          "me": false,
+          "text": "Tools, not oracles. Grok drafts. You keep the receipts. If it sounds sure, that is a tell, not a proof."
+        },
+        {
+          "me": true,
+          "text": "Dummy reply. Sample inbox only."
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "Check Twice",
+      "handle": "checktwice",
+      "preview": "If a model cites a case, a paper, or a statute, open the original. Dummy",
+      "messages": [
+        {
+          "me": false,
+          "text": "If a model cites a case, a paper, or a statute, open the original. Dummy feed. The habit is real."
+        },
+        {
+          "me": true,
+          "text": "Dummy reply. Sample inbox only."
+        }
+      ]
+    }
+  ]
+}
