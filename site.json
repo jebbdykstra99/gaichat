@@ -1,5 +1,6 @@
 {
   "siteId": "gaichat",
+  "redditSr": "gaichat",
   "name": "Generative AI",
   "tagline": "Tools, not oracles.",
   "composePlaceholder": "A tool with a receipt — not an oracle.",
