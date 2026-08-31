@@ -347,5 +347,19 @@
         }
       ]
     }
-  ]
+  ],
+  "rail": {
+    "kind": "porch",
+    "title": "Room Brief",
+    "kicker": "In the lab",
+    "meta": "This room",
+    "footer": "Porch only. No AI-news scrape.",
+    "porch": {
+      "prompt": "Local or hosted?",
+      "options": [
+        "Local",
+        "Hosted"
+      ]
+    }
+  }
 }
