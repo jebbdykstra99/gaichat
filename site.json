@@ -356,6 +356,7 @@
     "footer": "Porch only. No AI-news scrape.",
     "porch": {
       "prompt": "Local or hosted?",
+      "dwellMs": 9000,
       "options": [
         "Local",
         "Hosted"
