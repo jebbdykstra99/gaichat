@@ -1,70 +1,82 @@
 {
   "siteId": "gaichat",
   "redditSr": "gaichat",
-  "name": "Generative AI",
+  "name": "Gen AI",
   "tagline": "Tools, not oracles.",
   "composePlaceholder": "A tool with a receipt — not an oracle.",
   "emptyState": "This room is empty. Sign in with email to post the first take about the tools. Guest can browse only.",
   "theme": {
     "bg": "#eef6f3",
     "surface": "#f7fbf9",
-    "nav-bg": "#10231c",
+    "nav-bg": "#12151c",
     "nav-text": "#9bb0c0",
     "nav-hover": "#d5e2ea",
     "nav-active": "#f4f8fb",
     "text": "#12201b",
     "text-muted": "#4a5d6c",
     "text-light": "#6d8292",
-    "accent": "#1aa37a",
-    "accent-dark": "#14815f",
+    "accent": "#3d9b7a",
+    "accent-dark": "#2f7d62",
     "teal": "#2d6b5a",
     "silver": "#b8c5cf",
     "border": "#c9d5de",
     "avatarColors": [
-      "#10231c",
-      "#1aa37a",
-      "#14815f",
+      "#12151c",
+      "#3d9b7a",
+      "#2f7d62",
       "#2d6b5a",
-      "#1a3d32",
+      "#1a1e28",
       "#3d6b5a"
     ]
   },
   "trends": [
     {
-      "tag": "Grok",
-      "headline": "Draft first. Check twice. Then ship.",
-      "snippet": "Grok is a rubber duck with a search habit. Dummy note. Not a live model.",
+      "tag": "Tool",
+      "headline": "Claude Fable 5.1",
+      "snippet": "Anthropic coding/knowledge work release. Official page — verify the claims.",
       "meta": "In the lab"
     },
     {
-      "tag": "Cursor",
-      "headline": "Code in the editor, not in the tab",
-      "snippet": "The useful part is the repo in context. Chat without the files is theater.",
+      "tag": "Tool",
+      "headline": "GPT-6 Astra",
+      "snippet": "OpenAI work-intelligence model. Read the announcement. Keep the receipts.",
+      "meta": "In the lab"
+    },
+    {
+      "tag": "API",
+      "headline": "OpenAI Agents API",
+      "snippet": "Codex harness as a public API (beta). A tool, not an oracle.",
       "meta": "Tools"
     },
     {
-      "tag": "Policy",
-      "headline": "EU AI Act chatter, dummy desk",
-      "snippet": "Risk classes and receipts. Not legal advice. Not a filing.",
+      "tag": "Tool",
+      "headline": "Gemini 3.8 Flash",
+      "snippet": "Google agentic/coding Flash. Official blog. Check the model card.",
+      "meta": "In the lab"
+    },
+    {
+      "tag": "Image",
+      "headline": "ChatGPT Images 2.5",
+      "snippet": "Sharper edits, faster gens. Still look at the pixels yourself.",
+      "meta": "Tools"
+    },
+    {
+      "tag": "Safety",
+      "headline": "Anthropic misuse report",
+      "snippet": "Threat intel Sep 2026 — receipts, not vibes.",
       "meta": "Policy desk"
     },
     {
-      "tag": "Verify",
-      "headline": "If it cites a case, open the case",
-      "snippet": "Models invent footnotes. Keep the receipts. Tools, not oracles.",
+      "tag": "Desk",
+      "headline": "Cursor",
+      "snippet": "Repo in context beats chat theater. The files are the point.",
       "meta": "Usage"
     },
     {
-      "tag": "Work",
-      "headline": "Secret sauce does not go in the prompt",
-      "snippet": "No keys, no client files, no passwords. Dummy hygiene, still the rule.",
+      "tag": "Desk",
+      "headline": "Grok",
+      "snippet": "Draft fast, check twice. Fluency is not proof.",
       "meta": "Usage"
-    },
-    {
-      "tag": "Open vs hosted",
-      "headline": "Local weights vs a metered API",
-      "snippet": "Pick by data, cost, and who you can fire. Dummy, not a vendor ranking.",
-      "meta": "In the lab"
     }
   ],
   "places": [
@@ -357,15 +369,92 @@
     "kind": "porch",
     "title": "Room Brief",
     "kicker": "In the lab",
-    "meta": "This room",
-    "footer": "Porch only. No AI-news scrape.",
+    "meta": "Gen AI · This room",
+    "footer": "Curated official tool pages + porch. Not a news scrape. Not Google News.",
+    "maxCards": 8,
+    "overlay": {
+      "enabled": true,
+      "ms": 8000,
+      "headline": "Which tool are you actually shipping with this week?",
+      "links": [
+        {
+          "label": "Claude Fable 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+        },
+        {
+          "label": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/"
+        }
+      ]
+    },
     "porch": {
-      "prompt": "Local or hosted?",
+      "topic": "porch",
+      "prompt": "Which desk wins your week?",
       "dwellMs": 9000,
       "options": [
-        "Local",
-        "Hosted"
+        "Claude",
+        "GPT",
+        "Gemini",
+        "Grok"
       ]
-    }
+    },
+    "outbound": [
+      {
+        "tag": "Tool",
+        "headline": "Claude Fable 5.1",
+        "snippet": "Anthropic coding/knowledge work release. Official page — verify the claims.",
+        "meta": "Gen AI · This room",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      },
+      {
+        "tag": "Tool",
+        "headline": "GPT-6 Astra",
+        "snippet": "OpenAI work-intelligence model. Official announcement. Tools, not oracles.",
+        "meta": "Gen AI · This room",
+        "url": "https://openai.com/index/gpt-6-astra/"
+      },
+      {
+        "tag": "API",
+        "headline": "OpenAI Agents API",
+        "snippet": "Codex harness as a public API (beta). Read the post. Keep the receipts.",
+        "meta": "Gen AI · This room",
+        "url": "https://openai.com/index/introducing-the-agents-api/"
+      },
+      {
+        "tag": "Tool",
+        "headline": "Gemini 3.8 Flash",
+        "snippet": "Google agentic/coding Flash. Official blog — check the model card.",
+        "meta": "Gen AI · This room",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+      },
+      {
+        "tag": "Image",
+        "headline": "ChatGPT Images 2.5",
+        "snippet": "Sharper edits, faster gens. Still look at the pixels yourself.",
+        "meta": "Gen AI · This room",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+      },
+      {
+        "tag": "Safety",
+        "headline": "Anthropic misuse report",
+        "snippet": "Threat intel Sep 2026 — receipts, not vibes.",
+        "meta": "Gen AI · This room",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+      },
+      {
+        "tag": "Desk",
+        "headline": "Cursor",
+        "snippet": "Repo in context beats chat theater. The files are the point.",
+        "meta": "Gen AI · This room",
+        "url": "https://cursor.com"
+      },
+      {
+        "tag": "Desk",
+        "headline": "Grok",
+        "snippet": "Draft fast, check twice. Fluency is not proof.",
+        "meta": "Gen AI · This room",
+        "url": "https://grok.x.ai"
+      }
+    ]
   }
 }
