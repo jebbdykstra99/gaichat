@@ -350,16 +350,18 @@
     "maxCards": 4,
     "outbound": [
       {
-        "tag": "Culture",
-        "headline": "Wordmark: Gen AI · domain: gaichat.com",
-        "snippet": "Hard no: grokchat framing, muskchat tease, invented model leaderboards.",
-        "meta": "Sticky"
+        "tag": "Board",
+        "headline": "arXiv cs.AI",
+        "url": "https://arxiv.org/list/cs.AI/recent",
+        "snippet": "Official arXiv cs.AI recent. Research board — not a model ranking or leaderboard.",
+        "meta": "Official · board"
       },
       {
-        "tag": "Live",
-        "headline": "What’s live",
-        "snippet": "Preview / noindex. If the room is empty, say empty (or labeled sample). Never invent traffic or rankings.",
-        "meta": "FACT-or-empty"
+        "tag": "Watch",
+        "headline": "Google DeepMind",
+        "url": "https://www.youtube.com/@GoogleDeepMind",
+        "snippet": "Official Google DeepMind YouTube. Outbound only — no in-app re-stream. Tools not oracles.",
+        "meta": "Official · link-out"
       }
     ],
     "porch": {
