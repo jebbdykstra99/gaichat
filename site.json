@@ -372,5 +372,111 @@
       ],
       "dwellMs": 9000
     }
-  }
+  },
+  "taxonomy": {
+    "version": 1,
+    "name": "Gen AI tools",
+    "symbolPrefix": "$",
+    "topics": [
+      {
+        "id": "llms",
+        "label": "LLMs",
+        "kind": "theme",
+        "blurb": "Model talk",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "agents",
+        "label": "Agents",
+        "kind": "theme",
+        "blurb": "Tool-using systems",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "evals",
+        "label": "Evals",
+        "kind": "theme",
+        "blurb": "Measurement",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "rag",
+        "label": "RAG",
+        "kind": "theme",
+        "blurb": "Retrieval patterns",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "safety",
+        "label": "Safety",
+        "kind": "theme",
+        "blurb": "Alignment / misuse",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "opensource",
+        "label": "Open weights",
+        "kind": "theme",
+        "blurb": "Open models",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "apis",
+        "label": "APIs & pricing",
+        "kind": "theme",
+        "blurb": "Vendor APIs",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "devtools",
+        "label": "Dev tools",
+        "kind": "theme",
+        "blurb": "IDE / coding agents",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "multimodal",
+        "label": "Multimodal",
+        "kind": "theme",
+        "blurb": "Image/audio/video",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "regulation",
+        "label": "Policy",
+        "kind": "theme",
+        "blurb": "Public policy talk",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      }
+    ],
+    "defaultWatchlist": [
+      "llms",
+      "agents",
+      "safety",
+      "devtools"
+    ],
+    "notes": "Factory followable topics (StockTwits-style). Users keep/unfollow/add on their watchlist."
+  },
+  "v": 1,
+  "cacheBust": 1
 }
