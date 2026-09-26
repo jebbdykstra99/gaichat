@@ -477,6 +477,88 @@
     ],
     "notes": "Factory followable topics (StockTwits-style). Users keep/unfollow/add on their watchlist."
   },
+  "nests": [
+    {
+      "slug": "tool-desks",
+      "label": "Tool desks",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Show the stack you actually run — desk, not demo reel.",
+      "nav": true
+    },
+    {
+      "slug": "prompt-fail",
+      "label": "Prompt that failed",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Post the miss; the room learns from the break.",
+      "nav": true
+    },
+    {
+      "slug": "ship-notes",
+      "label": "Ship notes",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "What you actually shipped with tools this week.",
+      "nav": true
+    },
+    {
+      "slug": "agents",
+      "label": "Agents",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Tool-using agent workflows — loops, tools, caps.",
+      "nav": true
+    },
+    {
+      "slug": "mcp-tools",
+      "label": "MCP & connectors",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Open tool protocols / connectors for AI apps.",
+      "nav": true
+    },
+    {
+      "slug": "rag",
+      "label": "RAG",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Retrieval patterns that held or broke.",
+      "nav": true
+    },
+    {
+      "slug": "evals",
+      "label": "Evals",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Measure quality without inventing a public ranking.",
+      "nav": true
+    },
+    {
+      "slug": "coding-agents",
+      "label": "Coding agents",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "IDE / coding-agent desks — what ran in the editor.",
+      "nav": true
+    },
+    {
+      "slug": "open-weights",
+      "label": "Open weights",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Running and wiring open models as tools.",
+      "nav": true
+    },
+    {
+      "slug": "apis",
+      "label": "APIs & pricing",
+      "parent": null,
+      "kind": "theme",
+      "blurb": "Vendor API desks — cite official pricing only.",
+      "nav": true
+    }
+  ],
   "v": 1,
   "cacheBust": 1
 }
