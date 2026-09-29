@@ -1,5 +1,6 @@
 {
   "siteId": "gaichat",
+  "dms": true,
   "redditSr": "gaichat",
   "name": "gaichat",
   "tagline": "Tools, not oracles.",
