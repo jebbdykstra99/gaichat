@@ -1,0 +1,13 @@
+{
+  "factory": "jebbdykstra99/subx-factory",
+  "version": "v1.0.0",
+  "room": "gaichat",
+  "siteId": "gaichat",
+  "files": {
+    "factory.js": "7466eefc88f4103dcc159bcea5a788d35dc4b1402ffba14b270f3ede99b610d0",
+    "styles.css": "82c902d66fd4288b3fbe193237e06ae1993f7e8d76ee828553200cdf623fa1da"
+  },
+  "keepFiles": [],
+  "exceptions": "see subx-factory EXCEPTIONS.md",
+  "stampedAt": "2026-10-09T03:49:24Z"
+}
