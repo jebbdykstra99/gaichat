@@ -1,7 +1,6 @@
 {
   "siteId": "gaichat",
   "dms": true,
-  "redditSr": "gaichat",
   "name": "gaichat",
   "tagline": "Tools, not oracles.",
   "composePlaceholder": "What tool did you actually use today?",
@@ -561,5 +560,6 @@
     }
   ],
   "v": 1,
-  "cacheBust": 1
+  "cacheBust": 1,
+  "redditCrosspost": false
 }
