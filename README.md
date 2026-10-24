@@ -6,7 +6,7 @@ This is a **static** dress rehearsal of the bakasan.art SubX chrome (three-colum
 
 Wordmark: **Gen AI**. Domain: gaichat.com. Tagline (locked): *Tools, not oracles.*
 
-Dummy posts teach Grok, Cursor, Claude, Gemini, and ChatGPT as **tools with receipts** — verify, don't worship. Honest about drafts, code, search, and rubber-ducking. Honest about legal advice, live facts without checking, and secrets. EU AI Act / policy chatter appears as dummy cards, **not legal advice**.
+Dummy posts teach Grok, Cursor, Claude, Gemini, and ChatGPT as **tools with receipts**: verify, don't worship. Honest about drafts, code, search, and rubber-ducking. Honest about legal advice, live facts without checking, and secrets. EU AI Act / policy chatter appears as dummy cards, **not legal advice**.
 
 **grokchat.com stays dark.** This is not that flagship. This is not X.com. No AskAI. No live model. No personal contact details in the chrome.
 
@@ -31,6 +31,6 @@ Until DNS is pointed, Pages will serve on `https://jebbdykstra99.github.io/gaich
 - Ranking chrome (For You / Following / Hot / New) is UI only.
 - Sign-in modal closes with X, Escape, or overlay click. Auth is stubbed locally. No live accounts.
 - Right rail is dummy **In the lab** / **Policy desk** cards. Links stay on-site (`#explore`).
-- No AskAI. No live OpenAI / xAI / Google URLs. No cross-post to X. We are not X.com.
+- No AskAI. No live OpenAI / xAI / Google URLs. No cross-post to X. SubX is not X.com.
 - Footer: dummy feed, not legal advice, not a model.
 - **grokchat stays dark.** Do not light that domain from this folder.
