@@ -19,7 +19,7 @@
 
 ## Sourcing, Steward Disclosure & Moderation
 - FACT / STORYLINE / OPINION Taxonomy: Every FACT post cites a live HTTP 200 primary source URL and preserves source hedge words (may, can, generally, up to, typically).
-- Automated Steward Disclosure: Automated house posts carry steward: true and render a visible 'House steward' badge (data-subx-steward="house") plus WHOMARK (PEEKAI design family) origin disclosure badges. Nine third-person house desk handles (@shipnotes, @dmwatch, @deskstack, @evalnotes, @hallulog, @promptfail, @tooldesk, @arxivdesk, @roomrule) never impersonate humans.
+- Automated Steward Disclosure: Automated house posts carry steward: true and render a visible 'House steward' badge (data-subx-steward="house") plus WHOMARK (whomark-r5 design family) origin disclosure badges. Nine third-person house desk handles (@shipnotes, @dmwatch, @deskstack, @evalnotes, @hallulog, @promptfail, @tooldesk, @arxivdesk, @roomrule) never impersonate humans.
 - Moderation: Strict remove-first policy on unlawful content and images (48-hour NCII removal under the TAKE IT DOWN Act, DMCA 17 U.S.C. Section 512, violent/hateful/offensive images removed on sight, zero-tolerance CSAM reporting to NCMEC under 18 U.S.C. Section 2258A); lighter-touch moderation on lawful text criticism under 47 U.S.C. Section 230(c); human appeals to Jebb Dykstra at takedown@subx.it.
 
 ## Agent and Crawler Policy
