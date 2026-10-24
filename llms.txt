@@ -5,7 +5,6 @@
 ## Operator & Editorial Team
 - Operator: SubX, LLC, a Colorado limited liability company (Colorado Secretary of State ID# 20268297411)
 - Principal Address: 3019 Ocean Park Boulevard, #193, Santa Monica, CA 90405, USA
-- Team Byline: By Jebb Dykstra, Juno, Vesta and Iris
 - Contact (Legal, DMCA 17 U.S.C. Section 512, TAKE IT DOWN Act 48h NCII removal, Moderation Appeals): takedown@subx.it | +1-650-539-5005
 - Access & Age Gate: Free to read without an account; 18+ self-attestation required to create an account and post, reply, upvote, or send DMs (minAge: 18)
 - Preview Lock: <meta name="robots" content="noindex, nofollow"> and "Preview only." banner remain active until two-key sign-off lifts preview

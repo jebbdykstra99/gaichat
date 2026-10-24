@@ -8,7 +8,7 @@ Wordmark: **Gen AI**. Domain: gaichat.com. Tagline (locked): *Tools, not oracles
 
 Dummy posts teach Grok, Cursor, Claude, Gemini, and ChatGPT as **tools with receipts** — verify, don't worship. Honest about drafts, code, search, and rubber-ducking. Honest about legal advice, live facts without checking, and secrets. EU AI Act / policy chatter appears as dummy cards, **not legal advice**.
 
-**grokchat.com stays dark.** This is not that flagship. This is not X.com. No AskAI. No live model. No Jebb contact in the chrome.
+**grokchat.com stays dark.** This is not that flagship. This is not X.com. No AskAI. No live model. No personal contact details in the chrome.
 
 ## GitHub Pages + custom domain
 
