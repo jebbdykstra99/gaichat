@@ -3,7 +3,7 @@
 > gaichat.com (wordmark: Gen AI / Generative AI; siteId: "gai" / "gaichat") is an unofficial, practitioner-run discussion room in the SubX family for people who use generative AI as working tools rather than oracles. It is not grokchat (grokchat stays dark), is not a foundation model, and never invents proprietary model rankings. The site is currently in preview ("Preview only.") with noindex, nofollow active.
 
 ## Operator & Editorial Team
-- Operator: SubX, LLC, a Colorado limited liability company (Colorado Secretary of State ID# 20268297411), operated by Jebb Dykstra
+- Operator: SubX, LLC, a Colorado limited liability company (Colorado Secretary of State ID# 20268297411)
 - Principal Address: 3019 Ocean Park Boulevard, #193, Santa Monica, CA 90405, USA
 - Team Byline: By Jebb Dykstra, Juno, Vesta and Iris
 - Contact (Legal, DMCA 17 U.S.C. Section 512, TAKE IT DOWN Act 48h NCII removal, Moderation Appeals): takedown@subx.it | +1-650-539-5005
@@ -19,8 +19,8 @@
 
 ## Sourcing, Steward Disclosure & Moderation
 - FACT / STORYLINE / OPINION Taxonomy: Every FACT post cites a live HTTP 200 primary source URL and preserves source hedge words (may, can, generally, up to, typically).
-- Automated Steward Disclosure: Automated house posts carry steward: true and render a visible 'House steward' badge (data-subx-steward="house") plus WHOMARK (PEEKAI design family) origin disclosure badges. Nine third-person house desk handles (@shipnotes, @dmwatch, @deskstack, @evalnotes, @hallulog, @promptfail, @tooldesk, @arxivdesk, @roomrule) never impersonate humans.
-- Moderation: Strict remove-first policy on unlawful content and images (48-hour NCII removal under the TAKE IT DOWN Act, DMCA 17 U.S.C. Section 512, violent/hateful/offensive images removed on sight, zero-tolerance CSAM reporting to NCMEC under 18 U.S.C. Section 2258A); lighter-touch moderation on lawful text criticism under 47 U.S.C. Section 230(c); human appeals to Jebb Dykstra at takedown@subx.it.
+- Automated Steward Disclosure: Automated house posts carry steward: true and render a visible 'House steward' badge (data-subx-steward="house") plus WHOMARK™ origin disclosure badges. Nine third-person house desk handles (@shipnotes, @dmwatch, @deskstack, @evalnotes, @hallulog, @promptfail, @tooldesk, @arxivdesk, @roomrule) never impersonate humans.
+- Moderation: Strict remove-first policy on unlawful content and images (48-hour NCII removal under the TAKE IT DOWN Act, DMCA 17 U.S.C. Section 512, violent/hateful/offensive images removed on sight, zero-tolerance CSAM reporting to NCMEC under 18 U.S.C. Section 2258A); lighter-touch moderation on lawful text criticism under 47 U.S.C. Section 230(c); human appeals to a human reviewer at SubX, LLC via takedown@subx.it.
 
 ## Agent and Crawler Policy
 - Preview status: robots.txt disallows crawling while preview is active. Please honor it. This file grants no access that robots.txt denies.
