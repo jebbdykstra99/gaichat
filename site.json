@@ -39,7 +39,7 @@
     {
       "tag": "Desk",
       "headline": "Show the desk.",
-      "snippet": "What stack did you actually use Tuesday — not which model “won.”",
+      "snippet": "What stack did you actually use Tuesday, not which model “won.”",
       "meta": "Tool desks"
     },
     {
@@ -59,7 +59,7 @@
     {
       "tag": "Tool desks",
       "title": "My desk",
-      "snippet": "What’s on your bar today: editor, model, RAG, evals — name the stack, skip the hype."
+      "snippet": "What’s on your bar today: editor, model, RAG, evals. Name the stack, skip the hype."
     },
     {
       "tag": "Tool desks",
@@ -74,7 +74,7 @@
     {
       "tag": "Tool desks",
       "title": "Cursor",
-      "snippet": "Editor desk talk — receipts, not oracle vibes."
+      "snippet": "Editor desk talk: receipts, not oracle vibes."
     },
     {
       "tag": "Tool desks",
@@ -124,7 +124,7 @@
     "maxSeconds": 15,
     "maxBytes": 8000000
   },
-  "seedNote": "sample — not mixed into the live feed",
+  "seedNote": "sample, not mixed into the live feed",
   "rail": {
     "kind": "porch",
     "title": "Room Brief",
@@ -137,14 +137,14 @@
         "tag": "Board",
         "headline": "arXiv cs.AI",
         "url": "https://arxiv.org/list/cs.AI/recent",
-        "snippet": "Official arXiv cs.AI recent. Research board — not a model ranking or leaderboard.",
+        "snippet": "Official arXiv cs.AI recent. Research board, not a model ranking or leaderboard.",
         "meta": "Official · board"
       },
       {
         "tag": "Watch",
         "headline": "Google DeepMind",
         "url": "https://www.youtube.com/@GoogleDeepMind",
-        "snippet": "Official Google DeepMind YouTube. Outbound only — no in-app re-stream. Tools not oracles.",
+        "snippet": "Official Google DeepMind YouTube. Outbound only, no in-app re-stream. Tools not oracles.",
         "meta": "Official · link-out"
       }
     ],
@@ -267,7 +267,7 @@
       "label": "Tool desks",
       "parent": null,
       "kind": "theme",
-      "blurb": "Show the stack you actually run — desk, not demo reel.",
+      "blurb": "Show the stack you actually run: desk, not demo reel.",
       "nav": true
     },
     {
@@ -291,7 +291,7 @@
       "label": "Agents",
       "parent": null,
       "kind": "theme",
-      "blurb": "Tool-using agent workflows — loops, tools, caps.",
+      "blurb": "Tool-using agent workflows: loops, tools, caps.",
       "nav": true
     },
     {
@@ -323,7 +323,7 @@
       "label": "Coding agents",
       "parent": null,
       "kind": "theme",
-      "blurb": "IDE / coding-agent desks — what ran in the editor.",
+      "blurb": "IDE / coding-agent desks: what ran in the editor.",
       "nav": true
     },
     {
@@ -339,7 +339,7 @@
       "label": "APIs & pricing",
       "parent": null,
       "kind": "theme",
-      "blurb": "Vendor API desks — cite official pricing only.",
+      "blurb": "Vendor API desks: cite official pricing only.",
       "nav": true
     }
   ],
