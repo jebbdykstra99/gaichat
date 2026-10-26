@@ -4,11 +4,11 @@
   "room": "gaichat",
   "siteId": "gaichat",
   "files": {
-    "factory.js": "42c13e21d1f8fec3df8c831a312cb9577e8349d0689cbb03b322aad84ca432ce",
+    "factory.js": "990c6831dc43b87531fa9ca8645fc360f3ceac6dff751d07611f9859af3a537f",
     "styles.css": "1731f4d853446f5f11e2c3cbba07c50262231133f7f559178a81edc0ecf0635b"
   },
   "keepFiles": [],
   "exceptions": "see subx-factory EXCEPTIONS.md",
-  "stampedAt": "2026-10-26T03:45:00Z",
-  "masterRef": "subx-factory cursor/image-uploads-flag-2026-10-26 @ 088f00b (FACTORY_RELEASE.json v1.2.6)"
+  "stampedAt": "2026-10-26T12:33:00Z",
+  "masterRef": "subx-factory cursor/image-uploads-flag-2026-10-26 @ 85558ee453d316575c742979a123fa5175ae9087 (FACTORY_RELEASE.json v1.2.6)"
 }
