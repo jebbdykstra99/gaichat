@@ -10,5 +10,5 @@
   "keepFiles": [],
   "exceptions": "see subx-factory EXCEPTIONS.md",
   "stampedAt": "2026-10-26T12:47:00Z",
-  "masterRef": "subx-factory cursor/image-uploads-flag-2026-10-26 @ 8e163681ea9a5e97b38aa7e968ed84df2d3956bd (FACTORY_RELEASE.json v1.2.6)"
+  "masterRef": "subx-factory cursor/image-uploads-flag-2026-10-26 @ 512da5682399d9b7f1aa37018f4403a919c7f48a (FACTORY_RELEASE.json v1.2.6)"
 }
