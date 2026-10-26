@@ -1,6 +1,6 @@
 # gaichat robots.txt · public beta (lock lifted)
 # Search indexing allowed. Do not scrape or use any content for AI training (named bots below stay blocked).
-# Lifting this lock is the operator's decision only. Agent rules: https://gaichat.com/terms.html
+# Operated by SubX, LLC. Agent rules: https://gaichat.com/terms.html
 # Contact: takedown@subx.it
 
 User-agent: *

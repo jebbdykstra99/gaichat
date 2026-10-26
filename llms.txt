@@ -1,13 +1,13 @@
 # gaichat.com - Gen AI ("Tools, not oracles.")
 
-> gaichat.com (wordmark: Gen AI / Generative AI; siteId: "gai" / "gaichat") is an unofficial, practitioner-run discussion room in the SubX family for people who use generative AI as working tools rather than oracles. It is not grokchat (grokchat stays dark), is not a foundation model, and never invents proprietary model rankings. The site is currently in preview ("Preview only.") with noindex, nofollow active.
+> gaichat.com (wordmark: Gen AI / Generative AI; siteId: "gai" / "gaichat") is an unofficial, practitioner-run discussion room in the SubX family for people who use generative AI as working tools rather than oracles. It is not grokchat (grokchat stays dark), is not a foundation model, and never invents proprietary model rankings. The site is a public beta, open to search indexing.
 
 ## Operator & Editorial Team
 - Operator: SubX, LLC, a Colorado limited liability company (Colorado Secretary of State ID# 20268297411)
 - Principal Address: 3019 Ocean Park Boulevard, #193, Santa Monica, CA 90405, USA
 - Contact (Legal, DMCA 17 U.S.C. Section 512, TAKE IT DOWN Act 48h NCII removal, Moderation Appeals): takedown@subx.it | +1-650-539-5005
 - Access & Age Gate: Free to read without an account; 18+ self-attestation required to create an account and post, reply, upvote, or send DMs (minAge: 18)
-- Index Status: public beta, open to search indexing (no robots noindex on public pages); "Beta" banner shown on every page
+- Index Status: public beta. Search indexing is open on public pages except /report.html; a "Beta" banner is shown on the home and About pages.
 
 ## Room Structure & The Three AI Benchmarks, Evals & Skills Desks
 - 7 Practitioner Nests: /prompts, /workflows, /fails, /code, /writing, /image-audio, /meta
