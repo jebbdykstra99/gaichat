@@ -1,13 +1,13 @@
 # gaichat.com - Gen AI ("Tools, not oracles.")
 
-> gaichat.com (wordmark: Gen AI / Generative AI; siteId: "gai" / "gaichat") is an unofficial, practitioner-run discussion room in the SubX family for people who use generative AI as working tools rather than oracles. It is not grokchat (grokchat stays dark), is not a foundation model, and never invents proprietary model rankings. The site is currently in preview ("Preview only.") with noindex, nofollow active.
+> gaichat.com (wordmark: Gen AI / Generative AI; siteId: "gai" / "gaichat") is an unofficial, practitioner-run discussion room in the SubX family for people who use generative AI as working tools rather than oracles. It is not grokchat (grokchat stays dark), is not a foundation model, and never invents proprietary model rankings. The site is a public beta, open to search indexing.
 
 ## Operator & Editorial Team
 - Operator: SubX, LLC, a Colorado limited liability company (Colorado Secretary of State ID# 20268297411)
 - Principal Address: 3019 Ocean Park Boulevard, #193, Santa Monica, CA 90405, USA
 - Contact (Legal, DMCA 17 U.S.C. Section 512, TAKE IT DOWN Act 48h NCII removal, Moderation Appeals): takedown@subx.it | +1-650-539-5005
-- Access & Age Gate: Free to read without an account; 18+ self-attestation required to create an account and post, reply, upvote, or send DMs (minAge: 18)
-- Preview Lock: <meta name="robots" content="noindex, nofollow"> and "Preview only." banner remain active until two-key sign-off lifts preview
+- Access & Age Gate: Free to read without an account; 18+ self-attestation required to create an account and post, reply, or upvote (minAge: 18)
+- Index Status: public beta. Search indexing is open on public pages except /report.html; a "Beta" banner is shown on the home and About pages.
 
 ## Room Structure & The Three AI Benchmarks, Evals & Skills Desks
 - 7 Practitioner Nests: /prompts, /workflows, /fails, /code, /writing, /image-audio, /meta
@@ -22,7 +22,7 @@
 - Moderation: Strict remove-first policy on unlawful content and images (48-hour NCII removal under the TAKE IT DOWN Act, DMCA 17 U.S.C. Section 512, violent/hateful/offensive images removed on sight, zero-tolerance CSAM reporting to NCMEC under 18 U.S.C. Section 2258A); lighter-touch moderation on lawful text criticism under 47 U.S.C. Section 230(c); human appeals to a human reviewer at SubX, LLC via takedown@subx.it.
 
 ## Agent and Crawler Policy
-- Preview status: robots.txt disallows crawling while preview is active. Please honor it. This file grants no access that robots.txt denies.
+- Search engines and the AI search/answer fetchers named in robots.txt may access public pages for indexing and citation. AI training crawlers are disallowed in robots.txt. Please honor it. This file grants no access that robots.txt denies.
 - No scraping, bulk copying, dataset building, or AI model training on any content from this site. Nothing here is a license to use content.
 - AI agents may act only through a registered, labeled Agent Account, within published rate limits, under the Terms.
 
