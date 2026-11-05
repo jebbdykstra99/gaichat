@@ -1,14 +1,14 @@
 {
   "factory": "jebbdykstra99/subx-factory",
-  "version": "v1.0.1+nr",
+  "version": "v1.2.6",
   "room": "gaichat",
   "siteId": "gaichat",
   "files": {
-    "factory.js": "a90e69ba13409b24ca19ff6be48c14e727ecc0c2f733fe44c4030539f9e9079b",
-    "styles.css": "82c902d66fd4288b3fbe193237e06ae1993f7e8d76ee828553200cdf623fa1da"
+    "factory.js": "53765ec2c8206b6c153cf1d28324de317097f12b84871c1cda70e55f16d2c7d2",
+    "styles.css": "1731f4d853446f5f11e2c3cbba07c50262231133f7f559178a81edc0ecf0635b"
   },
   "keepFiles": [],
   "exceptions": "see subx-factory EXCEPTIONS.md",
-  "stampedAt": "2026-10-19T14:00:00Z",
-  "masterRef": "subx-factory factory/v1.0.0 @ aaf157f"
+  "stampedAt": "2026-10-26T12:53:00Z",
+  "masterRef": "subx-factory cursor/image-uploads-flag-2026-10-26 @ a76940ccc85e4f107b6f4427c907b2e954ef02ab (FACTORY_RELEASE.json v1.2.6)"
 }
