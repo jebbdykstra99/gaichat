@@ -351,5 +351,6 @@
     "notifs": true
   },
   "minAge": 18,
-  "imageUploads": false
+  "imageUploads": false,
+  "accountsOpen": true
 }
