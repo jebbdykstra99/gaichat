@@ -2,7 +2,7 @@
   "siteId": "gaichat",
   "dms": true,
   "name": "gaichat",
-  "tagline": "Tools, not oracles.",
+  "tagline": "Gen AI",
   "composePlaceholder": "What tool did you actually use today?",
   "emptyState": "This room is empty. Sign in with email to post about using the tools. Guest can browse only. Tools, not oracles. Not a model. Not grokchat.",
   "theme": {
