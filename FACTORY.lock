@@ -5,7 +5,7 @@
   "siteId": "gaichat",
   "files": {
     "factory.js": "e3a8df039c327664679121a12213a0d5018a3fc64fac4722e275e2ea72c1e4ae",
-    "styles.css": "1731f4d853446f5f11e2c3cbba07c50262231133f7f559178a81edc0ecf0635b"
+    "styles.css": "58babb9b20a9bdbfcd2e20e5686ca8ebe7cf305be682408b48ebcba2c6969166"
   },
   "keepFiles": [
     "takedown.js"
