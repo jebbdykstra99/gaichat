@@ -276,6 +276,7 @@
       "parent": null,
       "kind": "theme",
       "blurb": "Post the miss; the room learns from the break.",
+      "ask": "Which prompt failed you, and what fixed it?",
       "nav": true
     },
     {
