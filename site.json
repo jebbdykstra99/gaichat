@@ -125,6 +125,24 @@
     "maxBytes": 8000000
   },
   "seedNote": "sample, not mixed into the live feed",
+  "featured": {
+    "featuredDays": 3,
+    "maxPinned": 3,
+    "articleMinChars": 600,
+    "label": "Our articles",
+    "handles": [
+      "promptfail",
+      "evalnotes",
+      "tooldesk",
+      "roomrule",
+      "shipnotes",
+      "deskstack",
+      "arxivdesk",
+      "hallulog",
+      "dmwatch",
+      "nistlane"
+    ]
+  },
   "rail": {
     "kind": "porch",
     "title": "Room Brief",
